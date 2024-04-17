@@ -10,14 +10,14 @@
 
 ## Construction guide
 
-1. Refer to [SiYuan Development Guide](https://github.com/siyuan-note/siyuan/blob/master/.github/CONTRIBUTING.md) to compile the kernel
+1. Refer to [SiYuan Development Guide](https://github.com/siyuan-note/siyuan/blob/master/.github/CONTRIBUTING.md) to compile the kernel, and copy to app/libs/kernel.aar
 2. Copy the resource files and package it in app/src/main/assets/app.zip
    * appearance
    * guide
    * stage
    * changelogs
 
-Directory structure reference:
+Directory structure reference (Android Studio Iguana | 2023.2.1 Patch 1):
 
 ![project-tree](project-tree.png)
 
